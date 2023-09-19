@@ -54,7 +54,7 @@ class Coins():
           try:
                time.sleep(1)
           except: 
-               print("An exception occured")
+               print("An exception occurred")
                
      
 
